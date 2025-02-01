@@ -1,6 +1,6 @@
 <?php
 require __DIR__ . '/../../fullstackphp/fsphp.php';
-fullStackPHPClassName("02.11 - Trabalhando com funcções");
+fullStackPHPClassName("02.11 - Trabalhando com funções");
 
 /**
  * 
