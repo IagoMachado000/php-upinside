@@ -1,0 +1,19 @@
+{
+    "name": "iagomachado/04-04-carregamento-automatico",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Source\\": "source/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Iago Machado",
+            "email": "iago.machado000@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "phpmailer/phpmailer": "^6.9"
+    }
+}
